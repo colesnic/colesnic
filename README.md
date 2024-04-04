@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @colesnic
+- 👋 Hi, I’m Nick
 - 👀 I’m interested in AI, UX and brain-machine interfaces.
 - 🌱 I’m currently learning computer science at the University of Michigan
 - 📫 How to reach me email: colesnic@umich.edu
